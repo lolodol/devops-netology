@@ -11,6 +11,10 @@ test new folder
 test
 test3
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> fix
 =======
 >>>>>>> master
 >>>>>>> fix
