@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+test4
+=======
 hi word
 test
 test new folder
@@ -7,3 +10,7 @@ test new folder
 п.с простите припекло
 test
 test3
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> fix
